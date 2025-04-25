@@ -2,7 +2,7 @@ flask==2.0.1
 tensorflow==2.15.0
 pillow==9.5.0
 numpy==1.23.5
-opencv-python==4.5.5.64
+opencv-python-headless
 transformers==4.30.2
 torch==2.0.0
 torchvision==0.15.1
